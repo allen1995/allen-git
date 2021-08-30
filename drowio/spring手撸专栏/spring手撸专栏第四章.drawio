@@ -1,1 +1,131 @@
-<mxfile host="Electron" modified="2021-08-30T07:58:26.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.9.6 Chrome/89.0.4389.128 Electron/12.0.16 Safari/537.36" etag="hoyJWVstbWCjx001hS84" version="14.9.6" type="device"><diagram id="6EK1qQfxJugf2_wXpq0B" name="第 1 页">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-30T13:34:37.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="HFa6VG0Uo-cSKlTn31r3" version="15.0.2" type="github">
+  <diagram id="6EK1qQfxJugf2_wXpq0B" name="第 1 页">
+    <mxGraphModel dx="1492" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;BeanFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getBean(String name)&lt;br&gt;+ getBean(String name,Object... args)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="70" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;AbstractBeanFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getBean(String name)&lt;br&gt;# getBeanDefinition(String beanName)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# createBean(String beanName,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;BeanDefinition beanDefinition)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-6" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=1;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-2" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="340" as="sourcePoint" />
+            <mxPoint x="414" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-8" value="实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-2" target="wFGo5rGqJg8Xc-vRmlnR-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="20" y="190" as="sourcePoint" />
+            <mxPoint x="180" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;SingletonBeanRegistry&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getSingleton(String beanName)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="70" width="226" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;DefaultSingletonBeanRegistry&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getSingleton(String beanName)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# addSingleton(String beanName,Object&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;singletonObject)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="270" width="226" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="526.5" y="240" as="sourcePoint" />
+            <mxPoint x="526.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;AbstractAutowireCapableBeanFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;# createBean(String beanName,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;BeanDefinition beanDefinition,Object[]&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&amp;nbsp;args)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="480" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-14" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-13" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="36" y="400.00000000000006" as="sourcePoint" />
+            <mxPoint x="170" y="400.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;InstantiationStrategy&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ instantiate(BeanDefinition beanfinition,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;String beanName,Constructor ctor,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;Object[] args)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="480" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="wFGo5rGqJg8Xc-vRmlnR-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="540" as="sourcePoint" />
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SimpleInstantiationStrategy&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ instantiate(BeanDefinition beanfinition,&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;String beanName,Constructor ctor,&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;Object[] args)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="480" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-18" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-17" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="484" y="550" as="sourcePoint" />
+            <mxPoint x="644" y="539.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;CglibSubclassInstantiationStrategy&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ instantiate(BeanDefinition beanfinition,&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;String beanName,Constructor ctor,&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;Object[] args)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="660" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-20" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-19" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="626" y="600.5" as="sourcePoint" />
+            <mxPoint x="530" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;DefaultListableBeanFactory&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- beanDefinitionMap: Map&amp;lt;String,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;BeanDefinition&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ registryBeanDefinition(String beanName,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;BeanDefinition beanDefinition,)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getBeanDefinition(String beanName)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="730" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wFGo5rGqJg8Xc-vRmlnR-22" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-21" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="169" y="679.94" as="sourcePoint" />
+            <mxPoint x="169" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BeanDifinition&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- beanClass: Class&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- propertyValues: PropertyValues&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="485" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;PropertyValues&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- propertyValues: ArrayList&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ addPropertyValue(PropertyValue pv)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getPropertyValues()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="270" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;PropertyValue&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- value: Object&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="100" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-4" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.539;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cOTSQFs-l9dDBhbeJPL9-1" target="cOTSQFs-l9dDBhbeJPL9-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-210" y="460" as="sourcePoint" />
+            <mxPoint x="-140" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-8" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-199" y="270" as="sourcePoint" />
+            <mxPoint x="-199.29" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;BeanReference&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- beanName: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&amp;nbsp;+ getBeanName()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="660" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-11" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;exitX=-0.015;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wFGo5rGqJg8Xc-vRmlnR-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-260" y="534.5" as="sourcePoint" />
+            <mxPoint x="-100" y="534.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOTSQFs-l9dDBhbeJPL9-13" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;entryX=1.018;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cOTSQFs-l9dDBhbeJPL9-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="530" as="sourcePoint" />
+            <mxPoint x="-90" y="544.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="530" />
+              <mxPoint x="-20" y="704" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
